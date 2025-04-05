@@ -11,7 +11,7 @@ Although the concept once belonged to science fiction, today, BCI technology is 
 The basic functionality of a BCI system involves three main stages:
 
 1. **Signal Acquisition**  
-   Brain signals—typically electrical—are captured using devices like EEG (Electroencephalography), fNIRS, or implanted electrodes.
+   Brain signals, typically electrical, are captured using devices like EEG (Electroencephalography), fNIRS, or implanted electrodes.
 
 2. **Signal Processing**  
    These raw signals are filtered, denoised, and analyzed to extract meaningful patterns associated with thoughts, intentions, or mental states.
